@@ -3,9 +3,9 @@
 
 
 
-Build with Bulma, Jquery and OwlCarousel.
+Builded with Bulma, Jquery and OwlCarousel.
 
-- for preview src -> index.html
+- for preview: src -> index.html
 - required: "node_modules" and "owlcarousel"
 
 
